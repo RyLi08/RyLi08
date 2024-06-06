@@ -1,6 +1,0 @@
-../Core/Src/extinguisher.c:36:6:GetParameter	24	static
-../Core/Src/extinguisher.c:44:6:ExtinguisherProcess	32	static
-../Core/Src/extinguisher.c:194:6:ExtinguisherTriggered	24	static
-../Core/Src/extinguisher.c:265:6:WchichExtinguisher	16	static
-../Core/Src/extinguisher.c:290:13:TimerToTrigExt	24	static
-../Core/Src/extinguisher.c:343:16:Delay	8	static

@@ -1,5 +1,0 @@
-fault.c:26:6:CheckWires	6
-fault.c:62:13:CheckExtConnected	20
-fault.c:150:13:CheckDetCableConnected	20
-fault.c:233:6:CheckDelayButConnected	4
-fault.c:255:13:CheckBattery	6

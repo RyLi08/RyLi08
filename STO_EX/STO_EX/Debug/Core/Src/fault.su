@@ -1,5 +1,0 @@
-../Core/Src/fault.c:26:6:CheckWires	8	static
-../Core/Src/fault.c:62:13:CheckExtConnected	16	static
-../Core/Src/fault.c:150:13:CheckDetCableConnected	16	static
-../Core/Src/fault.c:233:6:CheckDelayButConnected	8	static
-../Core/Src/fault.c:255:13:CheckBattery	8	static

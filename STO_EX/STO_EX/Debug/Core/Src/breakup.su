@@ -1,3 +1,0 @@
-../Core/Src/breakup.c:22:6:BreakupProcess	16	static
-../Core/Src/breakup.c:54:13:CheckSystem	8	static
-../Core/Src/breakup.c:80:6:CheckFault	16	static
