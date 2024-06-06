@@ -1,0 +1,14 @@
+../Core/Src/configuration.c:48:13:SaveConfiguration	16	static
+../Core/Src/configuration.c:71:6:LoadConfiguration	8	static
+../Core/Src/configuration.c:94:6:WriteToBackupReg	24	static
+../Core/Src/configuration.c:104:10:ReadBackupReg	24	static
+../Core/Src/configuration.c:117:6:ConfigurationMode	8	static
+../Core/Src/configuration.c:211:13:ChoiceValueToConfig	16	static
+../Core/Src/configuration.c:485:13:BlinkChoiceLed	16	static
+../Core/Src/configuration.c:500:13:BlinkSwitcheLed	16	static
+../Core/Src/configuration.c:516:13:TryToModeConfig	8	static
+../Core/Src/configuration.c:527:6:SwButtonCount	4	static
+../Core/Src/configuration.c:534:6:SwButPressed	4	static
+../Core/Src/configuration.c:539:6:ChButtonCount	4	static
+../Core/Src/configuration.c:559:6:ChButPressed	4	static
+../Core/Src/configuration.c:564:13:ForceDefaultConfig	4	static

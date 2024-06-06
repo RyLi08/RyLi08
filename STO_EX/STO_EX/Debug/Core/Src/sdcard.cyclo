@@ -1,0 +1,4 @@
+sdcard.c:30:6:InitSd	4
+sdcard.c:52:6:ToSdCard	25
+sdcard.c:260:13:OpenFile	1
+sdcard.c:268:13:CloseFile	1

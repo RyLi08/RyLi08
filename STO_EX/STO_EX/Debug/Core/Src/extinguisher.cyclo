@@ -1,0 +1,6 @@
+extinguisher.c:36:6:GetParameter	2
+extinguisher.c:44:6:ExtinguisherProcess	40
+extinguisher.c:194:6:ExtinguisherTriggered	24
+extinguisher.c:265:6:WchichExtinguisher	5
+extinguisher.c:290:13:TimerToTrigExt	10
+extinguisher.c:343:16:Delay	3

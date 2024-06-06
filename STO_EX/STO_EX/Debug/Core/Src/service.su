@@ -1,0 +1,2 @@
+../Core/Src/service.c:21:6:ServiceProcess	8	static
+../Core/Src/service.c:66:6:ServiceModeOn	16	static
